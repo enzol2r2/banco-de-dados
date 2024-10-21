@@ -2,7 +2,7 @@
 
 :root{
     --bg-color: #ffffff;
-    --primary-color: #0084ff;
+    --primary-color: #0606e9;
     --secundary-color: #030303;
     --font: "Nunito Sans", sans-serif;
 }
@@ -50,6 +50,6 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: var(--primary-color)
-    color: var(--bg-color)
+    background-color: var(--primary-color);
+    color: var(--bg-color);
 }
